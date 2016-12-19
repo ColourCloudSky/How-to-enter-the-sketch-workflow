@@ -6,7 +6,7 @@
 ## 二、工作前期准备
 ### 1）插件选择
 由于sketch本身的功能不多，开始工作前安装一些必备的插件是可以大幅度提高工作效率的。插件安装神器：Sketch Toolbox 下载地址  http://sketchtoolbox.com
-我工作过程中常用的一些插件：
+我工作过程中常用的一些插件：![image](https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/12.png)
 资料：Sketch 有哪些插件值得推荐？
 https://www.zhihu.com/question/27495264 根据自己的需要下载
 ### 2）快捷键学习
