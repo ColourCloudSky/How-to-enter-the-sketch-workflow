@@ -6,8 +6,8 @@
 ## 二、工作前期准备
 ### 1）插件选择
 由于sketch本身的功能不多，开始工作前安装一些必备的插件是可以大幅度提高工作效率的。插件安装神器：Sketch Toolbox 下载地址  http://sketchtoolbox.com
-我工作过程中常用的一些插件：![image](https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/12.png) 
-<img src="https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/12.png" width="10"/>
+我工作过程中常用的一些插件：
+<img src="https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/12.png" width="300"/>
 资料：Sketch 有哪些插件值得推荐？
 https://www.zhihu.com/question/27495264 根据自己的需要下载
 ### 2）快捷键学习
@@ -56,9 +56,9 @@ https://www.zhihu.com/question/24072939
 
 ### 6、Sketch钢笔工具画完的路径如何闭合？
 用sketch的钢笔工具画形状的时候，画了一次按esc退出后，又想把路径闭合成一个完整的形状，怎么才能闭合路径呢？
- ![image](https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/%E9%92%A2%E7%AC%94%E5%B7%A5%E5%85%B7%E8%B7%AF%E5%BE%841.png) 
+ <img src="https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/%E9%92%A2%E7%AC%94%E5%B7%A5%E5%85%B7%E8%B7%AF%E5%BE%841.png" width="300" />
 选择这个形状按Enter，然后点击close Path
- ![image](https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/%E9%92%A2%E7%AC%94%E5%B7%A5%E5%85%B7%E8%B7%AF%E5%BE%842.png)
+<img src="https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/%E9%92%A2%E7%AC%94%E5%B7%A5%E5%85%B7%E8%B7%AF%E5%BE%842.png" width="300" />
 ### 7、带阴影图标，怎么确定导出切图后的大小？
 把带有阴影的部分成组，然后选中组，按S，点一下这个组就会自动导出带有阴影部分的切图。如果手动切图，就需要把XY轴的偏移量补偿回去。
 
@@ -66,7 +66,7 @@ https://www.zhihu.com/question/24072939
 
 ### 8、sketch如何解决0.1像素误差这种事情？
 路径模式下，选择右上角的round to fluu pixels edges
-![image](https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/0.1%E5%83%8F%E7%B4%A0%E8%AF%AF%E5%B7%AE%E9%97%AE%E9%A2%98.png) 
+<img src="https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/0.1%E5%83%8F%E7%B4%A0%E8%AF%AF%E5%B7%AE%E9%97%AE%E9%A2%98.png" width="300">
 https://www.zhihu.com/question/35256192 
 ### 9、sketch设计UI中字体尺寸包含空白如何准确对齐？ 
 默认字体苹方或者思源黑体的情况下，保留空白区域标注，因为程序那边开发写出来的代码，文本控件也是有空白区域的。
@@ -84,11 +84,11 @@ https://www.zhihu.com/question/36318532
 https://zhuanlan.zhihu.com/p/21813824
 ### 3、用sketch切图时，导出的png会自动去掉透明区域，怎样保留透明区域的空间？ 
 * 1） 建立切片区域Slice，并且和需要导出的内容放到一个组里面
- ![image](https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/%E5%88%87%E5%9B%BE%E4%BF%9D%E7%95%99%E9%80%8F%E6%98%8E%E5%8C%BA%E5%9F%9F.png)
+<img src="https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/%E5%88%87%E5%9B%BE%E4%BF%9D%E7%95%99%E9%80%8F%E6%98%8E%E5%8C%BA%E5%9F%9F.png" width="300" />
 * 2）勾选仅导出组内容
-![image](https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/%E5%88%87%E5%9B%BE%E4%BF%9D%E7%95%99%E9%80%8F%E6%98%8E%E5%8C%BA%E5%9F%9F2.png)  
+<img src="https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/%E5%88%87%E5%9B%BE%E4%BF%9D%E7%95%99%E9%80%8F%E6%98%8E%E5%8C%BA%E5%9F%9F2.png" width="300" />
 * 3）确认和去掉画布背景颜色选项中的Include Export，很多时候带底色，就是因为你默认选上了导出的时候带上了背景色( Include Export )
-![image](https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/%E5%88%87%E5%9B%BE%E4%BF%9D%E7%95%99%E9%80%8F%E6%98%8E%E5%8C%BA%E5%9F%9F3.png)
+<img src="https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/%E5%88%87%E5%9B%BE%E4%BF%9D%E7%95%99%E9%80%8F%E6%98%8E%E5%8C%BA%E5%9F%9F3.png" width="300" />
 * 4）设置好尺寸然后导出就好啦。
 
 ### 4、sketch 导出图片模糊不清，不知道如何解决？ 
