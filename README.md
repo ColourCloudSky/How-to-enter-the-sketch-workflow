@@ -44,11 +44,11 @@ https://www.zhihu.com/question/49339932  （问题资料）
 * 2）当元素很小，不好选择时，可以按住command键，鼠标拖动框选来选择元素。
 
 ### 5、使用UI设计工具Sketch如何解决色彩管理、矢量图形绘制等具体问题？
- * 1）色彩管理：
-Sketch导入图片和导出图片，色彩会发生变化。问题来源是修改了电脑本身的颜色模式。改回默认的颜色模式即可解决！
+* 1）色彩管理：
+   Sketch导入图片和导出图片，色彩会发生变化。问题来源是修改了电脑本身的颜色模式。改回默认的颜色模式即可解决！
 * 2）矢量图绘制
-个人觉得，复杂一些的矢量绘制，建议在AI里绘制好复制到Sketch。
-一些简单的图形，可以直接在sketch里进行绘制。
+   个人觉得，复杂一些的矢量绘制，建议在AI里绘制好复制到Sketch。
+   一些简单的图形，可以直接在sketch里进行绘制。
 
 后期熟练掌握sketch布尔运算后一样可以直接进行复杂图标的设计。
 
@@ -84,11 +84,11 @@ https://www.zhihu.com/question/36318532
 https://zhuanlan.zhihu.com/p/21813824
 ### 3、用sketch切图时，导出的png会自动去掉透明区域，怎样保留透明区域的空间？ 
 * 1） 建立切片区域Slice，并且和需要导出的内容放到一个组里面
-<img src="https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/%E5%88%87%E5%9B%BE%E4%BF%9D%E7%95%99%E9%80%8F%E6%98%8E%E5%8C%BA%E5%9F%9F.png" width="300" />
+  <img src="https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/%E5%88%87%E5%9B%BE%E4%BF%9D%E7%95%99%E9%80%8F%E6%98%8E%E5%8C%BA%E5%9F%9F.png" width="300" />
 * 2）勾选仅导出组内容
-<img src="https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/%E5%88%87%E5%9B%BE%E4%BF%9D%E7%95%99%E9%80%8F%E6%98%8E%E5%8C%BA%E5%9F%9F2.png" width="300" />
+  <img src="https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/%E5%88%87%E5%9B%BE%E4%BF%9D%E7%95%99%E9%80%8F%E6%98%8E%E5%8C%BA%E5%9F%9F2.png" width="300" />
 * 3）确认和去掉画布背景颜色选项中的Include Export，很多时候带底色，就是因为你默认选上了导出的时候带上了背景色( Include Export )
-<img src="https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/%E5%88%87%E5%9B%BE%E4%BF%9D%E7%95%99%E9%80%8F%E6%98%8E%E5%8C%BA%E5%9F%9F3.png" width="300" />
+  <img src="https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/%E5%88%87%E5%9B%BE%E4%BF%9D%E7%95%99%E9%80%8F%E6%98%8E%E5%8C%BA%E5%9F%9F3.png" width="300" />
 * 4）设置好尺寸然后导出就好啦。
 
 ### 4、sketch 导出图片模糊不清，不知道如何解决？ 
@@ -113,6 +113,22 @@ https://zhuanlan.zhihu.com/p/21813824
 比如标注了距离是 20pt，行高 1.5，字号 16pt，那么开发需要设定实际间距就是 15pt。
 
 https://www.zhihu.com/question/25528295
+
+### 7.批量导出问题
+
+问题重现：每次导出资源时，如果是要导出多种尺寸，都需要重复设置导出参数，这样很不方便，能不能保存导出设置？
+
+解决办法：
+
+- 方法1：下载一个插件https://github.com/abynim/sketch-exportable 可以保存预设
+
+- 方法2：先做好全部要切的资源，然后全选所有切片，设置一次导出设置，将资源导出。
+
+- 方法3：下载插件https://github.com/Ashung/Android_Res_Export/blob/master/README_zh.md ，配合这个插件来实现导出
+
+### 8、导出png图片有背景
+
+单独导出png图片，需要建组，然后对组进行切片。
 
 ## 六、团队协作
 ### 1、各位ui设计师使用sketch时，请问是如何完成设计师之间的协作的？
