@@ -28,7 +28,6 @@ sketch现在鼓励一倍图的设计，所以更改了初始模板的尺寸，�
 
 ## 四、设计过程中
 ### 1、字体行高问题
- 
 这个Line是指文本的实际高度，测试发现会比size小，比如这里是14size，实际文本占的高度是10.
 实际设计标注中，不要去掉文字的外框，因为在系统默认字体苹方或者思源体的情况下，这个外框正好是开发那边文本控件的高度。
 ### 2、使用Sketch设计时，中英文混排时如何设置字体？
@@ -56,9 +55,9 @@ https://www.zhihu.com/question/24072939
 
 ### 6、Sketch钢笔工具画完的路径如何闭合？
 用sketch的钢笔工具画形状的时候，画了一次按esc退出后，又想把路径闭合成一个完整的形状，怎么才能闭合路径呢？
- 
+ ![image](https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/%E9%92%A2%E7%AC%94%E5%B7%A5%E5%85%B7%E8%B7%AF%E5%BE%841.png) 
 选择这个形状按Enter，然后点击close Path
- 
+ ![image](https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/%E9%92%A2%E7%AC%94%E5%B7%A5%E5%85%B7%E8%B7%AF%E5%BE%842.png)
 ### 7、带阴影图标，怎么确定导出切图后的大小？
 把带有阴影的部分成组，然后选中组，按S，点一下这个组就会自动导出带有阴影部分的切图。如果手动切图，就需要把XY轴的偏移量补偿回去。
 
@@ -66,7 +65,7 @@ https://www.zhihu.com/question/24072939
 
 ### 8、sketch如何解决0.1像素误差这种事情？
 路径模式下，选择右上角的round to fluu pixels edges
- 
+![image](https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/0.1%E5%83%8F%E7%B4%A0%E8%AF%AF%E5%B7%AE%E9%97%AE%E9%A2%98.png) 
 https://www.zhihu.com/question/35256192 
 ### 9、sketch设计UI中字体尺寸包含空白如何准确对齐？ 
 默认字体苹方或者思源黑体的情况下，保留空白区域标注，因为程序那边开发写出来的代码，文本控件也是有空白区域的。
@@ -84,11 +83,11 @@ https://www.zhihu.com/question/36318532
 https://zhuanlan.zhihu.com/p/21813824
 ### 3、用sketch切图时，导出的png会自动去掉透明区域，怎样保留透明区域的空间？ 
 * 1） 建立切片区域Slice，并且和需要导出的内容放到一个组里面
- 
+ ![image](https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/%E5%88%87%E5%9B%BE%E4%BF%9D%E7%95%99%E9%80%8F%E6%98%8E%E5%8C%BA%E5%9F%9F.png)
 * 2）勾选仅导出组内容
-  
+![image](https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/%E5%88%87%E5%9B%BE%E4%BF%9D%E7%95%99%E9%80%8F%E6%98%8E%E5%8C%BA%E5%9F%9F2.png)  
 * 3）确认和去掉画布背景颜色选项中的Include Export，很多时候带底色，就是因为你默认选上了导出的时候带上了背景色( Include Export )
-
+![image](https://github.com/ColourCloudSky/How-to-enter-the-sketch-workflow/blob/master/img/%E5%88%87%E5%9B%BE%E4%BF%9D%E7%95%99%E9%80%8F%E6%98%8E%E5%8C%BA%E5%9F%9F3.png)
 * 4）设置好尺寸然后导出就好啦。
 
 ### 4、sketch 导出图片模糊不清，不知道如何解决？ 
