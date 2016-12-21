@@ -12,6 +12,10 @@
 
 资料：Sketch 有哪些插件值得推荐？
 https://www.zhihu.com/question/27495264 根据自己的需要下载
+
+- 优秀插件收集：https://github.com/zifeixu85/Better-Sketch 
+- 生成随机中文名插件：https://github.com/JJYing/Fake-Chinese-Name-for-Sketch
+
 ### 2）快捷键学习
 由于sketch一些工具不是太直接，或者靠点击不是太效率，记住一些常用的快捷键是很有必要的。当然，不嫌麻烦的话也可以自定义快捷，改回跟PS一样的快捷键。
 
