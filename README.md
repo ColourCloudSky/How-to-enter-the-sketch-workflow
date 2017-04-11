@@ -8,7 +8,7 @@ sketch的安装很简单，下载好安装包后双击即可按照流程很顺�
 
 ## 二、前期准备
 ### 1）插件选择
-由于sketch具有很高的可扩展性，开始工作前安装一些必备的插件是可以大幅度提高工作效率的。插件安装神器：Sketch Toolbox 下载地址  http://sketchtoolbox.com
+由于sketch具有很高的可扩展性，开始工作前安装一些必备的插件是可以大幅度提高工作效率的。插件安装神器：<a href="http://sketchtoolbox.com">Sketch Toolbox</a>   
 > Tips:其实直接用sketch自带的插件管理工具也是很方便的，在官网的插件库和github上都可以找到最新的插件包。
 
 下面介绍一些我在工作过程中常用的插件：
@@ -77,7 +77,7 @@ sketch文本属性spacing中的Line是指文本的实际高度，测试发现会
 把带有阴影的部分成组，然后选中组，按S，点一下这个组就会自动导出带有阴影部分的切图。如果手动切图，就需要把XY轴的偏移量补偿回去。
 
 ### 8、sketch如何解决0.1像素误差这种事情？
-路径模式下，选择右上角的round to fluu pixels edges
+路径模式下，选择右上角的round to fluu pixels edges<br>
 <img src="img/0.1%E5%83%8F%E7%B4%A0%E8%AF%AF%E5%B7%AE%E9%97%AE%E9%A2%98.png" width="200">
 
 ### 9、sketch设计UI中字体尺寸包含空白如何准确对齐？ 
