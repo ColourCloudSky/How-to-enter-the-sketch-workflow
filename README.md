@@ -4,7 +4,7 @@
 # sketch工作流遇到的问题以及如何解决
 ## 一、软件安装
 sketch的安装很简单，下载好安装包后双击即可按照流程很顺利的完成安装，一般不会有什么问题。
-> 小提示：sketch激活可以去某宝买或者去这个帖子下面找最新的源文件：<a href="http://www.jianshu.com/p/3590f089e500">sketch各个破解版下载</a> 
+> 小提示：sketch激活可以去某宝买或者去这个帖子下面找最新的源文件：<a href="http://www.jianshu.com/p/3590f089e500" target="_blank">sketch各个破解版下载</a> 
 
 ## 二、前期准备
 ### 1）插件选择
